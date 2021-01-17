@@ -13,3 +13,4 @@
 * [아두이노](https://deneb21.tistory.com/333)  
 * [아두이노 ARDUINO MKR GPS SHIELD (ASX00017)](https://www.steamrobot.co.kr/shop/item.php?it_id=1578472041)  
 * [Blynk로 추적기 만들기](https://diy-project.tistory.com/55)  
+* [firebase, Arduino, App Inventor연동 IoT](https://kimhaksung.tistory.com/entry/arduino-wifi)  
