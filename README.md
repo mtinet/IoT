@@ -17,3 +17,5 @@
 * [두원공대 자료](http://c.doowon.ac.kr/)  
 * [Cat.M1 사용방법](https://medium.com/search?q=cat.m1)  
 * [MBED 기반의 Cat.M1 TCP/IP 데이터 통신 가이드](https://github.com/Wiznet/wiznet-iot-shield-mbed-kr/blob/master/docs/mbed_guide_bg96_tcp.md)  
+* [MBED 기반의 Cat.M1 HTTP 데이터 통신 가이드](https://github.com/Wiznet/wiznet-iot-shield-mbed-kr/blob/master/docs/mbed_guide_bg96_http.md)  
+* [MBED 기반의 Cat.M1 MQTT 데이터 통신 가이드](https://github.com/Wiznet/wiznet-iot-shield-mbed-kr/blob/master/docs/mbed_guide_bg96_mqtt.md)  
