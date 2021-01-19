@@ -22,3 +22,4 @@
 * [Seoul Wiz Cat.m1 강의 리스트](https://www.youtube.com/c/WizcenterSeoul/search?query=cat%20m1)  
 * [Wiznet IoT shield for Arduino](https://github.com/Wiznet/wiznet-iot-shield-arduino-kr)  
 * [GPS 트래커 만들기, freeboard, Thingsboard](https://www.youtube.com/watch?v=imiHgh-305g)  
+* [GPS 트래커 만들기, freeboard, Thingsboard-instructables](https://www.instructables.com/Arduino-LTE-Shield-GPS-Tracking-Freeboardio/)  
