@@ -21,3 +21,4 @@
 * [MBED 기반의 Cat.M1 MQTT 데이터 통신 가이드](https://github.com/Wiznet/wiznet-iot-shield-mbed-kr/blob/master/docs/mbed_guide_bg96_mqtt.md)  
 * [Seoul Wiz Cat.m1 강의 리스트](https://www.youtube.com/c/WizcenterSeoul/search?query=cat%20m1)  
 * [Wiznet IoT shield for Arduino](https://github.com/Wiznet/wiznet-iot-shield-arduino-kr)  
+* [GPS 트래커 만들기, freeboard, Thingsboard](https://www.youtube.com/watch?v=imiHgh-305g)  
