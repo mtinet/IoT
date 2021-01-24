@@ -24,3 +24,4 @@
 * [GPS 트래커 만들기, freeboard, Thingsboard](https://www.youtube.com/watch?v=imiHgh-305g)  
 * [GPS 트래커 만들기, freeboard, Thingsboard-instructables](https://www.instructables.com/Arduino-LTE-Shield-GPS-Tracking-Freeboardio/)  
 * [Make your own GPS SMS Security Tracking System](https://www.youtube.com/watch?v=CeStrH-5Llo)  
+* [LTE Cat.M1 개통 및 망 등록 과정 기초](https://ilikethisplus.tistory.com/65)  
